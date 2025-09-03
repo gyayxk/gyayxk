@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gyayak Jain</h1>
-<h3 align="center">A passionate pre-final year Engineering student</h3>
+<h3 align="center">A passionate final year Engineering student</h3>
 
-- 🌱 I’m currently learning **python,django and database adminitration**
+- 🌱 I’m currently learning **python,django,SQL and data analytics**
 
 - 📫 How to reach me **gyayakj11@gmail.com**
 
-- ⚡ Fun fact **i watch anime**
+- ⚡ Fun fact **Im an adventure junkie and Im a trekker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
