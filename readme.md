@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyayak Jain</h1>
 <h3 align="center"> **A Recently Graduated Engineer**  </h3>
 
-- 🌱 I have handson experience in **python,SQL, Data analytics and AI Engineering**
+- 🌱 I have handson experience in **Python,SQL, Data analytics and AI Engineering**
 
 - 📫 How to reach me **gyayakj11@gmail.com**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/gyayak-jain-74728b249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/gyayak-jain-74728b249" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gyayak8113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/gyayak-jain-74728b249" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
