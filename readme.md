@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyayak Jain</h1>
-<h3 align="center">A Recently Graduated Engineer  </h3>
+<h3 align="center"> **A Recently Graduated Engineer**  </h3>
 
-- 🌱 I’m currently learning **python,django,SQL and data analytics**
+- 🌱 I have handson experience in **python,SQL, Data analytics and AI Engineering**
 
 - 📫 How to reach me **gyayakj11@gmail.com**
 
