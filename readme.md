@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyayak Jain</h1>
-<h3 align="center">A passionate final year Engineering student</h3>
+<h3 align="center">A Recently Graduated Engineer  </h3>
 
 - 🌱 I’m currently learning **python,django,SQL and data analytics**
 
